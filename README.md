@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there, I'm Riddhi Sood! 
 
-<!--
-**Riddhisood/Riddhisood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning (AI/ML). I am passionate about building intelligent systems, training deep learning models, and exploring the intersection of data and automation.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack & Skills
+
+- Languages: Python, Java, C++
+- AI/ML & Data Science: Machine Learning, Deep Learning, Computer Vision, Data Analysis
+- Developer Tools: Git, GitHub, VS Code
+
+
+What I'm Working On
+- 🧠 Diving deeper into Explainable AI (XAI) and Multi-Agent systems.
+- 💻 Sharpening my core Data Structures & Algorithms (DSA) foundations in Java.
+- 📊 Actively seeking internships and opportunities in the AI/ML domain.
+
+
+Let's Connect!
+- Email: riddhisood03@gmail.com
+- LinkedIn: www.linkedin.com/in/riddhi-sood-13013b309
