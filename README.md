@@ -1,6 +1,6 @@
 Hi there, I'm Riddhi Sood! 
 
-I am a B.Tech Computer Science student specializing in **Artificial Intelligence and Machine Learning (AI/ML)**. I am passionate about building intelligent systems, training deep learning models, and exploring the intersection of data and automation.
+I am a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning (AI/ML). I am passionate about building intelligent systems, training deep learning models, and exploring the intersection of data and automation.
 
 
 Tech Stack & Skills
@@ -23,10 +23,11 @@ What I'm Working On
 - 📊 Actively seeking internships and opportunities in the AI/ML domain.
 
 
+
 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riddhisood&show_icons=true&theme=dark&hide_border=true&align=center" alt="Riddhi's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Riddhisood&show_icons=true&theme=dark&hide_border=true&align=center" alt="Riddhi's GitHub Stats" />
 </p>
 
 
