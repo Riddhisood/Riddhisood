@@ -20,7 +20,7 @@ Tech Stack & Skills
 What I'm Working On
 - 🧠 Diving deeper into Explainable AI (XAI) and Multi-Agent systems.
 - 💻 Sharpening my core Data Structures & Algorithms (DSA) foundations in Java.
-- 📊 Actively seeking internships and opportunities in the AI/ML domain.
+- 📊 Actively seeking internships and opportunities in the AI/ML domain. 
 
 
 
