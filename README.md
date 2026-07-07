@@ -23,17 +23,6 @@ What I'm Working On
 - 📊 Actively seeking internships and opportunities in the AI/ML domain. 
 
 
-
-My GitHub Stats
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Riddhisood&show_icons=true&theme=dark&hide_border=true&align=center" alt="Riddhi's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Riddhisood&layout=compact&theme=dark&hide_border=true" alt="Riddhi's Top Languages" />
-</p>
-
 Let's Connect!
 - Email: riddhisood03@gmail.com
 - LinkedIn: www.linkedin.com/in/riddhi-sood-13013b309
